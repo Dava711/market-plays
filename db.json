@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Alex",
+            "sirname": "Robocode",
+            "photo_url": "https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg",
+            "balance": 1000
+        },
+        {
+            
+        }
+    ]
+}
