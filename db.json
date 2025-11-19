@@ -52,6 +52,14 @@
             "price": 500,
             "author_id": 2,
             "photo_url": "https://i1.poltava.to/uploads/2023/05/2023-05-24/keyboard-2.png"
+        },
+                {
+            "id": 4,
+            "name": "hoodie",
+            "description": "Худі (або каптурка) – це теплий светр (кофта) з м'якого трикотажу, що має капюшон і часто велику накладну кишеню спереду.",
+            "price": 500,
+            "author_id": 4,
+            "photo_url": "https://tvoe.ru/img/3lmmr3h/product/754/1005/8/4620123480051-1.jpg"
         }
     ]
 }
