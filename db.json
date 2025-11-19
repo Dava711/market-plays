@@ -8,11 +8,32 @@
             "balance": 1000
         },
         {
-            "id": 4,
+              "id": 2,
+              "name": "andrew",
+              "surname": "shvydkyi",
+              "photo_url": "https://i.pinimg.com/736x/9d/76/b2/9d76b2f173963e33bedca2153dff63c9.jpg",
+              "balance": 1000
+
+        },
+        {
+              "id": 3,
+              "name": "Yaroslav",
+              "surname": "Popov",
+              "photo_url": "https://settingspro.net/wp-content/uploads/2020/05/s1mplele.jpg",
+              "balance": 1000 },
+        {
+            "id": 5,
             "name": "Stas",
             "sirname": "Yaremko",
             "photo_url": "https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg",
             "balance": 44
+        },
+                {
+           "id": 4,
+            "name": "David",
+            "sirname": "Sybirka",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLe8oDl8hU1bDhQItV4AOXf41yga5R2SJP5w&s",
+            "balance": 721  
         }
     ]
 }
