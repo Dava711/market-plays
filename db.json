@@ -52,9 +52,9 @@
             "price": 44,
             "author_id": 5,
             "photo_url": "https://content1.rozetka.com.ua/goods/images/big/543183377.jpg"
-            },
-            
-            {"id": 2,
+        },
+        {
+            "id": 2,
             "name": "keyboards",
             "description": "Клавіату́ра (англ. keyboard) — сукупність розміщених у певному порядку клавіш пристрою, що використовується для введення і редагування даних, а також керування виконанням окремих операцій.",
             "price": 100,
@@ -69,7 +69,7 @@
             "author_id": 3,
             "photo_url": "https://asset.msi.com/resize/image/global/product/product_1720164234733c43cc4ea7a2d8875597b7c00513d2.png62405b38c58fe0f07fcef2367d8a9ba1/600.png"
         },
-                {
+        {
             "id": 4,
             "name": "hoodie",
             "description": "Худі (або каптурка) – це теплий светр (кофта) з м'якого трикотажу, що має капюшон і часто велику накладну кишеню спереду.",
