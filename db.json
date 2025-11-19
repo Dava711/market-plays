@@ -46,7 +46,12 @@
             "photo_url": "https://www.cool-mania.net/mini/w-980/data/product/98/f3ebae31c67a87ec6c1fc7c7b70bb4.jpg"
         },
         {
-            
+            "id": 5,
+            "name": "mouse",
+            "description": "Attack Shark X3",
+            "price": 444,
+            "author_id": 5,
+            "photo_url": "https://content1.rozetka.com.ua/goods/images/big/543183377.jpg"
         }
     ]
 }
