@@ -8,7 +8,11 @@
             "balance": 1000
         },
         {
-            
+            "id": 4,
+            "name": "Stas",
+            "sirname": "Yaremko",
+            "photo_url": "https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg",
+            "balance": 44
         }
     ]
 }
