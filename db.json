@@ -8,7 +8,12 @@
             "balance": 1000
         },
         {
-            
+              "id": 2,
+              "name": "andrew",
+              "surname": "shvydkyi",
+              "photo_url": "https://i.pinimg.com/736x/9d/76/b2/9d76b2f173963e33bedca2153dff63c9.jpg",
+              "balance": 1000
+
         }
     ]
 }
