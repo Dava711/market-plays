@@ -26,7 +26,7 @@
             "name": "Stas",
             "surname": "Yaremko",
             "photo_url": "https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg",
-            "balance": 44
+            "balance": 44444
         },
         {
             "id": 4,
@@ -49,7 +49,7 @@
             "id": 5,
             "name": "mouse",
             "description": "Attack Shark X3",
-            "price": 44444,
+            "price": 44,
             "author_id": 5,
             "photo_url": "https://content1.rozetka.com.ua/goods/images/big/543183377.jpg"
         },
