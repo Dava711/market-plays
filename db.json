@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Alex",
-            "sirname": "Robocode",
+            "surname": "Robocode",
             "photo_url": "https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg",
             "balance": 1000
         },
@@ -24,14 +24,14 @@
         {
             "id": 5,
             "name": "Stas",
-            "sirname": "Yaremko",
+            "surname": "Yaremko",
             "photo_url": "https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg",
             "balance": 44
         },
         {
             "id": 4,
             "name": "David",
-            "sirname": "Sybirka",
+            "surname": "Sybirka",
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLe8oDl8hU1bDhQItV4AOXf41yga5R2SJP5w&s",
             "balance": 721
         }
